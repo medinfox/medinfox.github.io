@@ -1,6 +1,9 @@
 "use client";
 
+import { AudioWaveform, Combine, Swords, Trophy } from "lucide-react";
+import Link from "next/link";
 import { usePathname } from "next/navigation";
+
 import {
   Sidebar,
   SidebarContent,
@@ -15,8 +18,6 @@ import {
 } from "@/shadcn/components/ui/sidebar";
 
 import { NavUser } from "@/components/nav-user";
-import { AudioWaveform, Combine, Swords, Trophy } from "lucide-react";
-import Link from "next/link";
 
 const user = {
   name: "Tcm Arena",

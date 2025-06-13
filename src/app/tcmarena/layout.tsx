@@ -1,9 +1,4 @@
-import { Separator } from "@/shadcn/components/ui/separator";
-import {
-  SidebarInset,
-  SidebarProvider,
-  SidebarTrigger,
-} from "@/shadcn/components/ui/sidebar";
+import { SidebarInset, SidebarProvider } from "@/shadcn/components/ui/sidebar";
 
 import { AppSidebar } from "./sidebar";
 
