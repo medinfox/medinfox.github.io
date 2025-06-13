@@ -1,6 +1,6 @@
 import Header from "../header";
 
-export default function ExtractorPage() {
+export default function LeaderboardPage() {
   return (
     <>
       <Header title="Leaderboard" />

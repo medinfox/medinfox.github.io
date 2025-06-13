@@ -2,7 +2,7 @@ import Markdown from "react-markdown";
 
 import Header from "../header";
 
-export default function TcmArenaHomePage() {
+export default function BattlePage() {
   const model1 = {
     患者姓名: ["崔某"],
     患者性别: ["女"],
